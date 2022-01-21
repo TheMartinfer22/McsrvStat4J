@@ -9,7 +9,7 @@ import dev.nanosync.mcsrvstat4j.enums.ServerStats;
 import feign.Feign;
 import feign.gson.GsonDecoder;
 
-public class ServerService extends ServerEntity {
+public class ServerService {
 
     private final ServerEntity serverEntity;
 

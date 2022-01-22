@@ -19,5 +19,6 @@ mvn clean compile assembly:single
 
 ## 📚 Libraries used
 
+- Lombok
 - OpenFeign
 - OpenFeign-Gson
